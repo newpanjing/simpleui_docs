@@ -2,8 +2,7 @@ export default {
     lang: 'zh-CN',
     ignoreDeadLinks: true,
     title: 'Django SimpleUI',
-    base: '/',
-    root: './',
+    base: '/simpleui_docs',
     locales: {
         root: {
             lang: 'zh-CN',
