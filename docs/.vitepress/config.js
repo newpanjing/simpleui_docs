@@ -34,7 +34,7 @@ export default {
             {icon: 'github', link: 'https://github.com/newpanjing/simpleui_demo'}
         ],
         editLink: {
-            pattern: 'https://github.com/newpanjing/simpleui/edit/main/docs/docs/:path'
+            pattern: 'https://github.com/newpanjing/simpleui/edit/main/docs/:path'
         },
         nav: [
             {text: 'Home', link: '/'},
