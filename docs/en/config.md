@@ -378,7 +378,7 @@ The top of the home page has a default jump address of /, this is root directory
 
 ```python
 # Configure simpleui Click the address of the home icon to jump.
-SIMPLEUI_INDEX = 'https://www.88cto.com'
+SIMPLEUI_INDEX = 'https://www.noondot.com'
 ```
 
 Relative and absolute paths can be set. There is nothing special about this address, it will call **window.open** to open the address directly.
