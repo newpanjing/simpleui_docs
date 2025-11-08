@@ -961,7 +961,7 @@ simpleui内置了一个默认的首页，只是由简单的快捷导航与最近
 
 ```python
 # 设置simpleui 点击首页图标跳转的地址
-SIMPLEUI_INDEX = 'https://www.88cto.com'
+SIMPLEUI_INDEX = 'https://www.noondot.com'
 ```
 
 可以设置相对与绝对路径。该地址并无特殊之处，将会调用window.open直接打开该地址。
@@ -1035,7 +1035,7 @@ admindoc需要simpleui 3.3+ 版本
 
 simplepro也是我们推出的一个升级版的django admin插件，在现有的基础上，做了大量改进和优化。并且一前后分离的方式加载数据。
 
-点击[了解更多](https://simpleui.88cto.com/simplepro)。
+点击[了解更多](https://www.noondot.com/simplepro)。
 
 ## 国际化
 
@@ -1096,4 +1096,4 @@ simpleui 国际化采用js前端国际化，因为没有涉及到后端，所以
 
 ### 官网&反馈
 
-[https://simpleui.88cto.com](https://simpleui.88cto.com)
+[https://www.noondot.com](https://www.noondot.com)
