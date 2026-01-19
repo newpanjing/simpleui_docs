@@ -15,7 +15,7 @@ export default {
         }
     },
     sitemap: {
-        hostname: 'https://www.mldoo.com'
+        hostname: 'https://www.noondot.com'
     },
     themeConfig: {
         siteTitle: 'SimpleUI Docs',
@@ -39,11 +39,11 @@ export default {
         nav: [
             {text: 'Home', link: '/'},
             {text: '配置&Config', link: '/config'},
-            {text: '社区', link: 'https://www.mldoo.com'},
+            {text: '社区', link: 'https://www.noondot.com'},
             {
                 text: '更新记录', link: 'https://github.com/newpanjing/simpleui/tags',
             },
-            {text: '专业版', link: 'https://www.mldoo.com/simplepro'},
+            {text: '专业版', link: 'https://www.noondot.com/simplepro'},
         ],
         sidebar: {
             '/config': [
@@ -66,7 +66,7 @@ export default {
                     ]},
                 {text: '国际化', link: '#国际化'},
                 {text: '插件', link: '#插件支持'},
-                {text: '社区', link: 'https://www.mldoo.com'},
+                {text: '社区', link: 'https://www.noondot.com'},
             ]
         },
     }
