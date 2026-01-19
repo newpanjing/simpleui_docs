@@ -1,4 +1,4 @@
 # simpleui_docs
 django simpleui document
 
-site: https://www.mldoo.com
+site: https://www.noondot.com
